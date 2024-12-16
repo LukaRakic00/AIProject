@@ -6,8 +6,6 @@ Welcome to the **AI Project** repository! This project demonstrates the applicat
 - **[Overview](#overview)**
 - **[Features](#features)**
 - **[Technologies](#technologies)**
-- **[Getting Started](#getting-started)**
-- **[License](#license)**
 
 ## **Overview**
 The **AI Project** leverages multiple machine learning techniques for solving classification problems. It includes the application of traditional models such as **Random Forest**, **Linear Regression**, and **Gradient Boosting** on the **NVIDIA dataset** for predictive analysis. Additionally, a **Neural Network** is implemented using **Keras** for classifying images in the **Fashion MNIST** dataset, showcasing the power of deep learning in image recognition.
